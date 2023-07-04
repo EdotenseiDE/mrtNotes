@@ -1,0 +1,14 @@
+{icon:Interface/Icons/achievement_boss_theironcouncil_01}Iron Council{icon:Interface/Icons/achievement_boss_theironcouncil_01}
+
+{icon:Interface/Icons/spell_nature_bloodlust}BL P3
+
+{tank}Steelbreaker: none    {icon:Interface/Icons/spell_shadow_soulgem}SS|cff8787edSaraxas|r         
+{tank}Molgeim: |cffc79c6eAzfudo|r   {icon:Interface/Icons/spell_shadow_soulgem}SS|cff8787edCentro|r         
+{tank}Brundir: |cffc79c6eAzfudo|r
+
+
+{healer}CDs:
+
+<P1>{spell:498} DSac |cfff58cbaSimbaa|r 
+<P3>{spell:498} DSac |cfff58cbaSimbaa|r  {spell:498} DSac |cfff58cbaXarreon|r 
+

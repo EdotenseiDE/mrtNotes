@@ -1,0 +1,25 @@
+{icon:Interface/Icons/achievement_boss_freya_01}Freya{icon:Interface/Icons/achievement_boss_freya_01}
+
+{icon:Interface/Icons/spell_nature_bloodlust}BL P2
+
+{healer}CDs:
+{icon:Interface/Icons/Spell_nature_earthquake}Ground Tremor
+<1>{spell:31821} AM |cfff58cbaGaryfoak|r {spell:498}DSac |cfff58cbaSimbaa|r
+<2>{spell:31821} AM |cfff58cbaSimbaa|r {spell:498}DSac |cfff58cbaXarreon|r
+<2>{spell:31821} AM none {spell:498}DSac |cfff58cbaUnicon|r
+
+
+Kicks:
+{icon:Interface/Icons/spell_frost_summonwaterelemental}Water Spirit: {icon:Interface/Icons/classicon_rogue} |cfffff569Rouges|r
+{icon:Interface/Icons/spell_nature_chainlightning}Storm Lasher: {icon:Interface/Icons/spell_deathknight_classicon} |cffc41f3bDKs|r|r {icon:Interface/Icons/classicon_shaman} |cff0070deEnh|r
+
+Stun:
+{icon:Interface/Icons/spell_nature_stoneclawtotem}Snaplasher: 
+<1>{icon:Interface/Icons/classicon_paladin}|cfff58cbaUnicon|r
+<1>{icon:Interface/Icons/classicon_paladin}|cfff58cbaGaryfoak|r
+
+Knock:
+<Wave1>
+Detonating {icon:Interface/Icons/spell_shadow_summoninfernal}|cff8787edSaraxas|r Knock |cff40c7ebCada|r 
+<Wave2>
+Detonating {icon:Interface/Icons/spell_shadow_summoninfernal}|cff8787edCentro|r Knock |cff40c7ebCada|r 

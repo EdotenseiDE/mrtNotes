@@ -1,0 +1,19 @@
+{icon:Interface/Icons/achievement_boss_theflameleviathan_01}Leviathan{icon:Interface/Icons/achievement_boss_theflameleviathan_01}
+
+Fahrzeuge:
+{icon:Interface/Icons/ability_vehicle_siegeengineram}Siege: |cfff58cbaMinWhity|r    |cff40c7ebCada|r    {icon:Interface/Icons/ability_druid_treeoflife}|cff00ff00Grün|r
+{icon:Interface/Icons/ability_vehicle_siegeengineram}Siege: |cffc79c6eAzfudo|r    |cfffff569Lefpal|r    {icon:Interface/Icons/ability_druid_treeoflife}|cffffff00 Gelb|r
+{icon:Interface/Icons/ability_vehicle_siegeengineram}Siege: |cffabd473Silinrul|r    |cffc41f3bWimm |r   {icon:Interface/Icons/ability_druid_treeoflife}|cffff0000Rot|r
+{icon:Interface/Icons/ability_vehicle_siegeengineram}Siege: |cffabd473Slaymer|r    |cfff58cbaAlluc|r    {icon:Interface/Icons/ability_druid_treeoflife}|cff0000ffBlau|r
+{icon:Interface/Icons/ability_vehicle_siegeengineram}Siege: |cfff58cbaSkibba|r    |cffffffffLliliette|r {icon:Interface/Icons/inv_misc_enggizmos_12}|cff00ffffKicks|r
+
+
+{icon:Interface/Icons/ability_vehicle_demolisherram}Demo:{icon:Interface/Icons/ability_vehicle_launchplayer} |cfff58cbaGaryfoak|r    |cfff58cbaUnicon|r    |cff00ff96Blunder|r
+{icon:Interface/Icons/ability_vehicle_demolisherram}Demo:{icon:Interface/Icons/ability_vehicle_launchplayer} |cff40c7ebSonikk|r    |cff8787edSaraxas|r    |cff00ff96Routenplaner|r
+{icon:Interface/Icons/ability_vehicle_demolisherram}Demo: |cffffffffZyan|r    |cfff58cbaHolykain|r    
+{icon:Interface/Icons/ability_vehicle_demolisherram}Demo: |cffc41f3bPrivileguan|r|r    |cffc41f3bKruso|r|r    
+{icon:Interface/Icons/ability_vehicle_demolisherram}Demo: |cff0070deHadisis|r  |cff00ff96Vynn |r   
+
+{icon:Interface/Icons/Ability_vehicle_rocketboost}Chopper: |cfff58cbaSimbaa|r
+{icon:Interface/Icons/Ability_vehicle_rocketboost}Chopper: |cff0070deKlimbimski|r
+{icon:Interface/Icons/Ability_vehicle_rocketboost}Chopper: |cffffffffAlmira|r

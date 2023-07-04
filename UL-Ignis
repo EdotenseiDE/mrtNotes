@@ -1,0 +1,14 @@
+{icon:Interface/Icons/achievement_boss_ignis_01}Ignis{icon:Interface/Icons/achievement_boss_ignis_01}
+
+{icon:Interface/Icons/spell_nature_bloodlust}BL zum Pull
+
+{tank}MT: |cffc79c6eAzfudo|r
+{tank}Adds: |cffc41f3bKruso|r|r
+
+{healer}CDs:
+<1>{spell:31821} AM Fire |cfff58cbaSimbaa|r
+<2>{spell:31821} AM Fire |cfff58cbaXarreon|r
+<3>{spell:31821} AM Fire
+<4>{spell:498} DSac      |cfff58cbaUnicon|r
+<5>{spell:498} DSac      |cfff58cbaGaryfoak|r
+<6>{spell:498} DSac      |cfff58cbaSimbaa|r

@@ -1,0 +1,12 @@
+{icon:Interface/Icons/achievement_boss_xt002deconstructor_01}XT-002{icon:Interface/Icons/achievement_boss_xt002deconstructor_01}
+
+{icon:Interface/Icons/spell_nature_bloodlust}BL {time:3:00}
+
+{tank}MT: |cffc79c6eAzfudo|r
+{tank}Adds: |cffc41f3bKruso|r|r
+
+{healer}CDs:
+{icon:Interface/Icons/spell_nature_earthquake}Tantrum:
+<1>{spell:498} DSac |cfff58cbaSimbaa|r {spell:31821} AM|cfff58cbaGaryfoak|r
+<2>{spell:498} DSac |cfff58cbaXarreon|r {spell:31821} AM ??
+
