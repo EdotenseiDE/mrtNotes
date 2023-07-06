@@ -1,0 +1,25 @@
+{skull}{skull}|cffc41f3brVezax|r|{skull}{skull}
+
+{spell:2825}BL Animus
+
+
+Kicks:
+<Group1>|cffc41f3bPrivileguan|r|r |cffc79c6eAzfudo|r
+<Group2>|cffc41f3bMavic|r|r |cfffff569Snowpie|r
+<Group3>|cfffff569Hecmania|r |cff0070deIgneel|r
+
+Pfützen:
+<Group1>{Hunter}{Mage}{spell:49238}{spell:48066}
+<Group2>{Warlock}{spell:48125}
+
+CDs:
+<1>{spell:498}DSac:|cfff58cbaSimbaa|r    {spell:31821}AMshadow:|cfff58cbaGaryfoak|r 
+<2>{spell:498}DSac:|cfff58cbaXarreon|r   {spell:31821}AMshadow:|cfff58cbaSimbaa|r   
+<3>{spell:498}DSac:|cfff58cbaMinWhity|r  {spell:31821}AMshadow:|cfff58cbaUnicon|r   
+<4>{spell:498}DSac:none                  {spell:31821}AMshadow:none                 
+
+{tank}CDs:
+<1>{spell:498}BSac:|cfff58cbaXarreon|r 
+<2>{spell:498}BSac:|cfff58cbaGaryfoak|r 
+<3>{spell:498}BSac:|cfff58cbaUnicon|r   
+<4>{spell:871}|cffc79c6eAzfudo|r              

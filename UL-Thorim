@@ -1,0 +1,23 @@
+{skull}{skull}|cffc41f3brThorim|r|{skull}{skull}
+
+{spell:2825}BL P2
+
+{tank}MT: |cffc41f3bPrivileguan|r|r 
+{tank}OT: |cffc79c6eAzfudo|r  
+
+Posi:
+1 linker Fuß: |cffc41f3bMavic|r|r |cff0070deIgneel|r
+2 rechter Fuß: |cfffff569Hecmania|r |cfffff569Snowpie|r |cfff58cbaGaryfoak|r |cffc41f3bWimmix|r|r
+3: |cffffffffTocker|r |cff8787edSaraxas|r
+4: |cfff58cbaXarreon|r |cffffffffZyan|r |cff40c7ebCada|r
+5: |cff40c7ebScythedemon|r |cff40c7ebSonik|r |cff8787edCentro|r
+6: |cff0070deSnakebites|r |cffffffffAlmira|r
+7: |cff0070deKlimbimski|r
+
+Tunnel:
+{tank}|cffc79c6eAzfudo|r  {healer}|cff0070deHadisis|r {damage}alle Ranges
+
+
+CDs:
+{spell:6203}SS|cff8787edSaraxas|r auf |cfff58cbaUnicon|r
+{spell:6203}SS|cff8787edCentro|r auf |cffc79c6eAzfudo|r 

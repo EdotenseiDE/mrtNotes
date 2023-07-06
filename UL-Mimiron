@@ -1,0 +1,23 @@
+{skull}{skull}|cffc41f3brMimiron|r|{skull}{skull}
+
+{spell:2825}BL P3
+
+{tank}Steelbreaker: none    {spell:6203}SS|cff8787edSaraxas|r         
+{tank}Molgeim: |cffc79c6eAzfudo|r   {spell:6203}SS|cff8787edCentro|r         
+{tank}Brundir: |cffc79c6eAzfudo|r
+
+
+CDs:
+<P1> {spell:871}{spell:33206}
+<P2>
+    1:{spell:498} DSac |cfff58cbaSimbaa|r
+    2:{spell:498} DSac |cfff58cbaXarreon|r
+    3:{spell:498} DSac 
+    4:{spell:31821} AM |cfff58cbaGaryfoak|r
+    5:{spell:31821} AM |cfff58cbaUnicon|r
+    6:{spell:31821} AM |cfff58cbaMinWhity|r
+
+Bots:
+<Bomb Bot> cffc79c6eAzfudo|r
+<Aussault Bot> |cffc41f3bPrivileguan|r|r Stun1:|cfff58cbaUnicon|r Stun2:|cfff58cbaGaryfoak|r |cfff58cbaSimbaa|r
+
