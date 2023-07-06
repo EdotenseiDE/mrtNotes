@@ -1,9 +1,9 @@
-{icon:Interface/Icons/achievement_boss_theironcouncil_01}Iron Council{icon:Interface/Icons/achievement_boss_theironcouncil_01}
+{skull}{skull}|cffc41f3brIron Council|r|{skull}{skull}
 
-{icon:Interface/Icons/spell_nature_bloodlust}BL P3
+{spell:2825}BL P3
 
-{tank}Steelbreaker: none    {icon:Interface/Icons/spell_shadow_soulgem}SS|cff8787edSaraxas|r         
-{tank}Molgeim: |cffc79c6eAzfudo|r   {icon:Interface/Icons/spell_shadow_soulgem}SS|cff8787edCentro|r         
+{tank}Steelbreaker: none    {spell:6203}SS|cff8787edSaraxas|r         
+{tank}Molgeim: |cffc79c6eAzfudo|r   {spell:6203}SS|cff8787edCentro|r         
 {tank}Brundir: |cffc79c6eAzfudo|r
 
 
